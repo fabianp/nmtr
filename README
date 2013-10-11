@@ -1,0 +1,64 @@
+
+*****************************************************************
+
+           COPYRIGHT NOTIFICATION
+
+This program discloses material protectable under copyright laws of
+the United States. Permission to copy and modify this software and its
+documentation for internal research use is hereby granted, provided
+that this notice is retained thereon and on all copies or modifications. 
+The University of Chicago makes no representations as to the suitability 
+and operability of this software for any purpose. 
+It is provided "as is" without express or implied warranty.
+
+Use of this software for commercial purposes is expressly prohibited
+without contacting 
+
+   Jorge J. More'
+   Mathematics and Computer Science Division
+   Argonne National Laboratory
+   9700 S. Cass Ave.
+   Argonne, Illinois 60439-4844
+   e-mail: more@mcs.anl.gov
+
+Argonne National Laboratory with facilities in the states of
+Illinois and Idaho, is owned by The United States Government, and
+operated by the University of Chicago under provision of a contract
+with the Department of Energy.
+
+*****************************************************************
+
+           INSTRUCTIONS
+          
+The compressed tar file nmtr.tar.gz contains the MINPACK-2 
+trust region method for the solution of (dense) unconstrained
+optimization problems.
+
+1. Create the nmtr directory structure with
+
+       gzip -d nmtr.tar.gz
+       tar -xvf nmtr.tar
+
+   This produces the directory nmtr and several subdirectories.
+
+2. Change directories to nmtr and install nmtr with
+
+       make install
+
+   This creates libraries in each of the subdirectories and
+   the execuatable nmtr.
+
+3. Run the sample problems by executing nmtr, and compare the output in 
+   nmtr.info with the output in nmtr.linux.
+
+*****************************************************************
+
+           ADDITIONAL INFORMATION
+
+Jorge J. More' and Danny C. Sorensen,
+Computing a trust region step,
+SIAM Journal on Scientific and Statistical Computing, 4 (1983), pages 553-572.
+
+*****************************************************************
+
+Last modification: March 2000

@@ -1,0 +1,340 @@
+ Problem DEPT_1
+
+ Number of variables                                  100
+ Function value at initial iterate         0.33057851E+00
+ Gradient norm at initial iterate               0.780E+00
+ Number of function evaluations                         7
+ Number of gradient evaluations                         6
+ Number of Hessian evaluations                          6
+ Function value at final iterate          -0.17109799E-01
+ Gradient norm at final iterate                 0.385E-15
+
+ Total execution time                                0.06
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  16.67
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DEPT_2
+
+ Number of variables                                  100
+ Function value at initial iterate        -0.33057851E+00
+ Gradient norm at initial iterate               0.729E+00
+ Number of function evaluations                         5
+ Number of gradient evaluations                         4
+ Number of Hessian evaluations                          4
+ Function value at final iterate          -0.42774497E+00
+ Gradient norm at final iterate                 0.402E-15
+
+ Total execution time                                0.04
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  25.00
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DEPT_3
+
+ Number of variables                                  100
+ Function value at initial iterate        -0.11570248E+01
+ Gradient norm at initial iterate               0.862E+00
+ Number of function evaluations                         7
+ Number of gradient evaluations                         6
+ Number of Hessian evaluations                          6
+ Function value at final iterate          -0.17109799E+01
+ Gradient norm at final iterate                 0.101E-14
+
+ Total execution time                                0.06
+ Percentage in function evaluations                 16.67
+ Percentage in Hessian evaluations                  50.00
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DPJB_1
+
+ Number of variables                                  100
+ Function value at initial iterate         0.11274297E+02
+ Gradient norm at initial iterate               0.606E+01
+ Number of function evaluations                         6
+ Number of gradient evaluations                         5
+ Number of Hessian evaluations                          5
+ Function value at final iterate          -0.27881465E+00
+ Gradient norm at final iterate                 0.836E-15
+
+ Total execution time                                0.06
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  16.67
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DPJB_2
+
+ Number of variables                                  100
+ Function value at initial iterate         0.78983832E+01
+ Gradient norm at initial iterate               0.107E+02
+ Number of function evaluations                         5
+ Number of gradient evaluations                         4
+ Number of Hessian evaluations                          4
+ Function value at final iterate          -0.70378425E+01
+ Gradient norm at final iterate                 0.179E-14
+
+ Total execution time                                0.06
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  33.33
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DPJB_3
+
+ Number of variables                                  100
+ Function value at initial iterate         0.13664999E+02
+ Gradient norm at initial iterate               0.217E+02
+ Number of function evaluations                         6
+ Number of gradient evaluations                         5
+ Number of Hessian evaluations                          5
+ Function value at final iterate          -0.29461822E+02
+ Gradient norm at final iterate                 0.301E-14
+
+ Total execution time                                0.09
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  33.33
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DMSA_A
+
+ Number of variables                                  100
+ Function value at initial iterate         0.14607596E+01
+ Gradient norm at initial iterate               0.208E+00
+ Number of function evaluations                         8
+ Number of gradient evaluations                         7
+ Number of Hessian evaluations                          7
+ Function value at final iterate           0.14184694E+01
+ Gradient norm at final iterate                 0.369E-09
+
+ Total execution time                                0.25
+ Percentage in function evaluations                  4.00
+ Percentage in Hessian evaluations                  76.00
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DMSA_B
+
+ Number of variables                                  100
+ Function value at initial iterate         0.14607596E+01
+ Gradient norm at initial iterate               0.208E+00
+ Number of function evaluations                         8
+ Number of gradient evaluations                         7
+ Number of Hessian evaluations                          7
+ Function value at final iterate           0.14184694E+01
+ Gradient norm at final iterate                 0.369E-09
+
+ Total execution time                                0.26
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  76.92
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DMSA_C
+
+ Number of variables                                  100
+ Function value at initial iterate         0.14607596E+01
+ Gradient norm at initial iterate               0.208E+00
+ Number of function evaluations                         8
+ Number of gradient evaluations                         7
+ Number of Hessian evaluations                          7
+ Function value at final iterate           0.14184694E+01
+ Gradient norm at final iterate                 0.369E-09
+
+ Total execution time                                0.26
+ Percentage in function evaluations                  3.85
+ Percentage in Hessian evaluations                  73.08
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DODC_A
+
+ Number of variables                                  100
+ Function value at initial iterate         0.44626249E-01
+ Gradient norm at initial iterate               0.441E+00
+ Number of function evaluations                        17
+ Number of gradient evaluations                        13
+ Number of Hessian evaluations                         13
+ Function value at final iterate          -0.10980177E-01
+ Gradient norm at final iterate                 0.106E-10
+
+ Total execution time                                0.52
+ Percentage in function evaluations                  1.92
+ Percentage in Hessian evaluations                  69.23
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DODC_B
+
+ Number of variables                                  100
+ Function value at initial iterate         0.40149580E-01
+ Gradient norm at initial iterate               0.451E+00
+ Number of function evaluations                        12
+ Number of gradient evaluations                         9
+ Number of Hessian evaluations                          9
+ Function value at final iterate          -0.15219347E-01
+ Gradient norm at final iterate                 0.135E-15
+
+ Total execution time                                0.35
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  77.14
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DODC_C
+
+ Number of variables                                  100
+ Function value at initial iterate         0.52164079E-01
+ Gradient norm at initial iterate               0.442E+00
+ Number of function evaluations                        12
+ Number of gradient evaluations                        10
+ Number of Hessian evaluations                         10
+ Function value at final iterate          -0.85573662E-02
+ Gradient norm at final iterate                 0.189E-08
+
+ Total execution time                                0.35
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  68.57
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DSSC_A
+
+ Number of variables                                  100
+ Function value at initial iterate        -0.52547630E+01
+ Gradient norm at initial iterate               0.116E+01
+ Number of function evaluations                         6
+ Number of gradient evaluations                         5
+ Number of Hessian evaluations                          5
+ Function value at final iterate          -0.55979206E+01
+ Gradient norm at final iterate                 0.242E-14
+
+ Total execution time                                0.21
+ Percentage in function evaluations                  4.76
+ Percentage in Hessian evaluations                  71.43
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DSSC_B
+
+ Number of variables                                  100
+ Function value at initial iterate        -0.52547630E+01
+ Gradient norm at initial iterate               0.116E+01
+ Number of function evaluations                         6
+ Number of gradient evaluations                         5
+ Number of Hessian evaluations                          5
+ Function value at final iterate          -0.55979206E+01
+ Gradient norm at final iterate                 0.242E-14
+
+ Total execution time                                0.20
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  75.00
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DSSC_C
+
+ Number of variables                                  100
+ Function value at initial iterate        -0.52547630E+01
+ Gradient norm at initial iterate               0.116E+01
+ Number of function evaluations                         6
+ Number of gradient evaluations                         5
+ Number of Hessian evaluations                          5
+ Function value at final iterate          -0.55979206E+01
+ Gradient norm at final iterate                 0.242E-14
+
+ Total execution time                                0.19
+ Percentage in function evaluations                  5.26
+ Percentage in Hessian evaluations                  78.95
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DGL1_A
+
+ Number of variables                                  100
+ Function value at initial iterate        -0.16618578E-03
+ Gradient norm at initial iterate               0.797E-02
+ Number of function evaluations                        25
+ Number of gradient evaluations                        24
+ Number of Hessian evaluations                         24
+ Function value at final iterate          -0.84561883E+04
+ Gradient norm at final iterate                 0.942E-09
+
+ Total execution time                                0.20
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  35.00
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DGL1_B
+
+ Number of variables                                  100
+ Function value at initial iterate        -0.46266262E-03
+ Gradient norm at initial iterate               0.164E-01
+ Number of function evaluations                        24
+ Number of gradient evaluations                        23
+ Number of Hessian evaluations                         23
+ Function value at final iterate          -0.48098804E+05
+ Gradient norm at final iterate                 0.256E-06
+
+ Total execution time                                0.19
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  36.84
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DGL2_A
+
+ Number of variables                                  100
+ Function value at initial iterate         0.17166204E+02
+ Gradient norm at initial iterate               0.792E+00
+ Number of function evaluations                        19
+ Number of gradient evaluations                        17
+ Number of Hessian evaluations                         17
+ Function value at final iterate           0.16201387E+02
+ Gradient norm at final iterate                 0.100E-03
+
+ Total execution time                                1.26
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  76.19
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DGL2_B
+
+ Number of variables                                  100
+ Function value at initial iterate         0.16383329E+02
+ Gradient norm at initial iterate               0.379E+00
+ Number of function evaluations                        19
+ Number of gradient evaluations                        15
+ Number of Hessian evaluations                         15
+ Function value at final iterate           0.16112896E+02
+ Gradient norm at final iterate                 0.817E-04
+
+ Total execution time                                1.09
+ Percentage in function evaluations                  0.00
+ Percentage in Hessian evaluations                  75.23
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DGL2_C
+
+ Number of variables                                  100
+ Function value at initial iterate         0.16095378E+02
+ Gradient norm at initial iterate               0.140E+00
+ Number of function evaluations                        22
+ Number of gradient evaluations                        17
+ Number of Hessian evaluations                         17
+ Function value at final iterate           0.15958719E+02
+ Gradient norm at final iterate                 0.355E-04
+
+ Total execution time                                1.26
+ Percentage in function evaluations                  0.79
+ Percentage in Hessian evaluations                  76.19
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+

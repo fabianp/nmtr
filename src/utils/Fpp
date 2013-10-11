@@ -1,0 +1,44 @@
+#!/bin/sh
+
+# This script transforms a .F file into a .f file
+# Parameters for the preprocessor are accepted.
+
+arch=$ARCH
+
+file=`echo $1 | sed 's/.F//'`
+
+# The shift operator now makes "$@" contain all parameters after the first.
+
+shift
+
+architecture=`echo $arch | tr '[A-Z]' '[a-z]'`
+
+case $architecture in
+solaris)
+  fpp -fixed -P  "$@" $file.F $file.f;
+
+  # Now replace those nasty continuation symbols that fpp introduces.
+
+  sed 's/     \* /     + /' $file.f > tmp;
+  mv tmp $file.f;
+  ;;
+rs6000)
+  cp $file.F $file.c;
+  cc -E -P -C "$@" $file.c > $file.i;
+  sed 's/^#.*//' $file.i > $file.f;
+  rm $file.i; rm $file.c
+;;
+linux)
+  cc -E -P -C "$@" $file.F > $file.i;
+  mv $file.i $file.f;
+  ;;
+irix64)
+  cc -E -P -C "$@" $file.F > $file.i;
+  sed 's/^#.*//' $file.i > $file.f;
+  rm $file.i;
+;;
+esac
+
+
+
+
